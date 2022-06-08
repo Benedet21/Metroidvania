@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/xDeviruchi - Title Theme (Loop).wav-7ddf72796288b7b0ee7706355fc4a884.sample"
+
+[deps]
+
+source_file="res://Som/Musicas/xDeviruchi - Title Theme (Loop).wav"
+dest_files=[ "res://.import/xDeviruchi - Title Theme (Loop).wav-7ddf72796288b7b0ee7706355fc4a884.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
